@@ -4,11 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h3>Hello World!</h3>
-      {/* <div>
-        <button onClick={greet}>Greet</button>
-      </div>
-      <h4>{greeting}</h4> */}
+      <h3>PLAY BALL!</h3>
+      <h1>Balls: </h1>
+      <h1>Strikes: </h1>      
     </div>
   );
 }
